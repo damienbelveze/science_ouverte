@@ -2,7 +2,7 @@
 layout: post
 title: Here is a blog post sample
 date: 2020-06-24 17:50
-image: /images/hal-2001.jpg
+image: /uploads/hal-2001.jpg
 caption: HAL
 ---
 
