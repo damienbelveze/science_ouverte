@@ -1,7 +1,7 @@
 ---
-title : enrichissement site science ouverte Rennes 1
+title: "Gérer les données de sa recherche : principes généraux"
 author: Damien Belvèze
-date: 19/10/2021
+date: 2021-11-12T16:28:35.658Z
 ---
 
 ![](images\banner_R1_donnees.PNG){ width="70%" }
