@@ -4,8 +4,6 @@ author: Damien Belvèze
 date: 2021-11-12T16:28:35.658Z
 ---
 
-![](images\banner_R1_donnees.PNG){ width="70%" }
-
 # Que sont les données de la recherche
 
 >Les données de la recherche sont définies comme des **enregistrements factuels** (chiffres, textes, images et sons), qui sont utilisés comme sources principales pour la recherche scientifique et sont généralement reconnus par la communauté scientifique comme**nécessaires pour valider des résultats de recherche**. Un ensemble de données de recherche constitue une représentation systématique et partielle du sujet faisant l’objet de la recherche ». (OCDE, Principes et lignes directrices de l’OCDE pour l’accès aux données de la recherche financée sur fonds publics, 2007)
