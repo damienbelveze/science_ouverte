@@ -1,13 +1,16 @@
-title: Your name or name of site
-description: A website with a blog
-header_text: My Dream Blog
-header_text_color: "#ffffff"
+title: Science Ouverte
+description: Ouvrir les publications, partager les données
 footer_text: Copyright 2021 Your name
-header_feature_image: ../uploads/pages.jpg
-bannerheight: "20vmax"
-navbarheight: "55px"
-gridlayout: false
-logo: /uploads/logo.jpg
+header_feature_image: ../uploads/pages.png
+header_text: ""
+header_text_color: "#ffffff"
+bannerheight: 20vmax
+navbarheight: 55px
+logo: ../uploads/logo_rennes1.png
 favicon: /uploads/favicon.ico
+gridlayout: false
+fixednavbar: true
 upzoom: true
-fixednavbar: false
+items:
+  - name: La science ouverte à Rennes 1
+    siteurl: https://scienceouverte.univ-rennes1.fr/enjeux-de-lopen-access
