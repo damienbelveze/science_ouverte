@@ -1,7 +1,9 @@
 ---
-title: accompagner les chercheurs
+title: Accompagner les chercheurs
 author: Damien Belvèze
+permalink: https://scienceouverte.netlify.app/admin/#/collections/pages/entries/accompagner_chercheurs
 date: 2021/10/19
+show: true
 ---
 ![](images\banner_R1_donnees.PNG)
 
