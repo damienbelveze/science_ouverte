@@ -1,5 +1,5 @@
 ---
-title: page accompagner les chercheurs
+title: accompagner les chercheurs
 author: Damien Belvèze
 date: 2021/10/19
 ---
