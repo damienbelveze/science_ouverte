@@ -1,11 +1,17 @@
 ---
 title: présentation de l'équipe
 author: Damien Belvèze
-date: 19/10/2021
+permalink: https://scienceouverte.netlify.app/pages/presentation_equipe/
+date: 2021-11-13T07:47:59.031Z
+show: true
 ---
 # pilotage de la mission science ouverte de l'université
 
- ![](images\kepenekian2.jpg) | Mickael Képénékian, Chargé de la documentation et de la science ouverte
+ 
+
+![Mickael Képénékian](../uploads/kepenekian2.jpg "Mickael Képénékian")
+
+\| Mickael Képénékian, Chargé de la documentation et de la science ouverte
 
 # membres du service ARDEL
 
