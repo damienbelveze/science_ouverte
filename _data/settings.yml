@@ -1,6 +1,6 @@
 title: Science Ouverte
 description: Ouvrir les publications, partager les données
-footer_text: Copyright 2021 Your name
+footer_text: université de Rennes 1
 header_feature_image: ../uploads/pages.png
 header_text: ""
 header_text_color: "#ffffff"
@@ -14,3 +14,5 @@ upzoom: true
 items:
   - name: La science ouverte à Rennes 1
     siteurl: https://scienceouverte.univ-rennes1.fr/enjeux-de-lopen-access
+  - name: Focus
+    siteurl: https://focus.univ-rennes1.fr
