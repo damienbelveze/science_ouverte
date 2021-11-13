@@ -9,7 +9,8 @@ show: true
 
 
 
-![Mickael Képénékian](../uploads/kepenekian2.jpg) | Mickael Képénékian, Chargé de la documentation et de la science ouverte
+![Mickael Képénékian](../uploads/kepenekian2.jpg) 
+ Mickael Képénékian, Chargé de la documentation et de la science ouverte
 
 # membres du service ARDEL
 
