@@ -9,13 +9,11 @@ show: true
 
  
 
-![Mickael Képénékian](../uploads/kepenekian2.jpg "Mickael Képénékian")
-
-\| Mickael Képénékian, Chargé de la documentation et de la science ouverte
+![Mickael Képénékian](../uploads/kepenekian2.jpg "Mickael Képénékian") | Mickael Képénékian, Chargé de la documentation et de la science ouverte
 
 # membres du service ARDEL
 
-<img src="images\thierry2.jpg" alt="Thierry Fournier" title="Thierry Fournier" align="left"> responsable du service ARDEL
-![Laurent Jonchère](images\laurent2.jpg) | gestionnaire portail HAL archive ouverte Rennes 1
-![Emilie Liard](images\liard2.jpg)   | gestionnaire accès documentation électronique
-![Damien Belvèze](images\damien2.jpg)  | formations, aide données de la recherche et plan de gestion des données
+![Thierry Fournier](../uploads/thierry2.jpg "Thierry Fournier") | responsable du service ARDEL
+![Laurent Jonchère](../uploads/laurent2.jpg "Laurent Jonchère") | gestionnaire portail HAL archive ouverte Rennes 1
+![Emilie Liard](../uploads/liard2.jpg "Emilie Liard") | gestionnaire accès documentation électronique
+![Damien Belvèze](../uploads/damien2.jpg "Damien Belvèze")  | formations, aide données de la recherche et plan de gestion des données
